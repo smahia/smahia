@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sara, a full-stack **web developer**. Nice to meet you!
+- 👋 Hi, I’m Sara, a **web developer**. Nice to meet you!
 - :video_game: My hobbies include video games, programming, swimming and watching TV shows and films.
 
 <!---
